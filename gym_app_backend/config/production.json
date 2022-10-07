@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://sajib123:sajib123@gymapp.o2v9t.mongodb.net/GymApp?retryWrites=true&w=majority",
+    "mongoURI2": "mongodb://localhost/gymapp",
+    "jwtSecret":"gymapp123"
+  
+  }
+  

@@ -1,0 +1,35 @@
+.pending-text {
+    background-color: #ffd557;
+    color: #323232;
+}
+
+.approved-text {
+    background-color: #96df73;
+    color: #323232;
+}
+
+.error-text {
+    background-color: #ef403d;
+    color: #323232;
+}
+
+.assign-button {
+    background-color: #219653 !important;
+    border-color: #219653 !important;
+}
+
+.details-button {
+    background-color: #56ccf2 !important;
+    border-color: #56ccf2 !important;
+}
+
+.edit-button {
+    color: black !important;
+    background-color: #ffd747 !important;
+    border-color: #ffd747 !important;
+}
+
+.delete-button {
+    background-color: #dd3030 !important;
+    border-color: #dd3030 !important;
+}

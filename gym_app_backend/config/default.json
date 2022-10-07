@@ -1,0 +1,6 @@
+{
+    "mongoURI1": "mongodb://Ashik_100:Ashik.100@cluster0-shard-00-00.bklgk.mongodb.net:27017,cluster0-shard-00-01.bklgk.mongodb.net:27017,cluster0-shard-00-02.bklgk.mongodb.net:27017/gymapp?ssl=true&replicaSet=atlas-122ysm-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "mongoURI": "mongodb://sajib123:sajib123@gymapp-shard-00-00.o2v9t.mongodb.net:27017,gymapp-shard-00-01.o2v9t.mongodb.net:27017,gymapp-shard-00-02.o2v9t.mongodb.net:27017/GymApp?ssl=true&replicaSet=atlas-9jzxef-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "mongoURI2": "mongodb://localhost/gymapp",
+    "jwtSecret": "gymapp123"
+}

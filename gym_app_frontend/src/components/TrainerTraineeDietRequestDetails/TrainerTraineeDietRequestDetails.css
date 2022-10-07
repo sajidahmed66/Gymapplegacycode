@@ -1,0 +1,22 @@
+.back-button {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+}
+
+.back-button:hover {
+    border-color: #ff1202 !important;
+    box-shadow: 0 0 0 1px #ff1202 !important;
+}
+
+.back-button:active,
+.back-button:focus {
+    color: #fff;
+    border-color: #ff1202 !important;
+    box-shadow: 0 0 0 1px #ff1202 !important;
+}
+
+
+/* .file-icon {
+    font-size: 20px;
+    vertical-align: baseline !important;
+} */
